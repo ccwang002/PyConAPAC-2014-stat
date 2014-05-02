@@ -1,0 +1,27 @@
+## Python #######
+__pycache__/
+*.py[cod]
+
+# IPython NB
+.ipynb_checkpoints/
+
+## Virtualenv ######
+venv
+.venv
+
+## OSX mess ######
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+## Editor ######
+*.swp
+*~
