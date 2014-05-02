@@ -25,3 +25,6 @@ venv
 ## Editor ######
 *.swp
 *~
+
+## Raw Data ######
+raw_data/
